@@ -17,8 +17,8 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-	<item>wallpaper_deafult</item>
-	<item>wallpaper_marvin</item>
+		<item>wallpaper_deafult</item>
+		<item>wallpaper_marvin</item>
         <item>vanguard_staticwp_iceberg</item>
         <item>vanguard_staticwp_octopus</item>
         <item>vanguard_staticwp_soundwaves</item>
@@ -67,16 +67,20 @@
         <item>wallpaper_stripes</item>
         <item>wallpaper_tiedie</item>
         <item>wallpaper_abstract</item>
-	<item>wallpaper_abstract2</item>
-	<item>wallpaper_colors</item>
-	<item>wallpaper_day_night</item>
-	<item>wallpaper_digital</item>
-	<item>wallpaper_grass</item>
-	<item>wallpaper_lion</item>
-	<item>wallpaper_planet</item>
-	<item>wallpaper_rainy</item>
-	<item>wallpaper_seasons</item>
-	<item>wallpaper_starcolors</item>
-	<item>wallpapers_rock</item>
-    </string-array>
+		<item>wallpaper_abstract2</item>
+		<item>wallpaper_colors</item>
+		<item>wallpaper_day_night</item>
+		<item>wallpaper_digital</item>
+		<item>wallpaper_grass</item>
+		<item>wallpaper_lion</item>
+		<item>wallpaper_planet</item>
+		<item>wallpaper_rainy</item>
+		<item>wallpaper_seasons</item>
+		<item>wallpaper_starcolors</item>
+		<item>wallpaper_plainbiffnightsky1</item>
+		<item>wallpaper_colorfulbiff</item>
+		<item>wallpaper_forzabmw</item>
+		<item>wallpaper_hellbmw</item>
+		<item>wallpaper_miscbmw</item>
+	</string-array>
 </resources>
