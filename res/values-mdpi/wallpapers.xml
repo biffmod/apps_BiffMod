@@ -17,21 +17,34 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-		<item>wallpaper_deafult</item>
-		<item>wallpaper_marvin</item>
+        <!--new biffmod wallpapers -->
+        <item>wallpaper_colorfulbiff</item> 
+        <item>wallpaper_forzabmw</item>
+        <item>wallpaper_hellbmw</item>
+        <item>wallpaper_miscbmw</item>
+        <item>wallpaper_plainbiffnightsky1</item>
+        <!--other wallpapers-->
         <item>vanguard_staticwp_iceberg</item>
         <item>vanguard_staticwp_octopus</item>
         <item>vanguard_staticwp_soundwaves</item>
         <item>vanguard_staticwp_starfish</item>
         <item>vanguard_staticwp_technomusic</item>
         <item>vanguard_staticwp_xrayfish</item>
+        <item>wallpaper_black</item>
+        <item>wallpaper_blending</item>
         <item>wallpaper_bluedotgrid</item>
+        <item>wallpaper_blue_red</item>
+        <item>wallpaper_bright</item>
+        <item>wallpaper_brown_flames</item>
         <item>wallpaper_brown</item>
         <item>wallpaper_canyon</item>
         <item>wallpaper_cloud</item>
+        <item>wallpaper_dark</item>
+        <item>wallpaper_default</item>
         <item>wallpaper_desert</item>
         <item>wallpaper_electric</item>
         <item>wallpaper_field</item>
+        <item>wallpaper_flames</item>
         <item>wallpaper_galaxy</item>
         <item>wallpaper_goldengate</item>
         <item>wallpaper_grass</item>
@@ -39,46 +52,23 @@
         <item>wallpaper_gray</item>
         <item>wallpaper_greengray</item>
         <item>wallpaper_hazybluedots</item>
+        <item>wallpaper_htc</item>
+        <item>wallpaper_light_dark</item>
         <item>wallpaper_lightgrad</item>
+        <item>wallpaper_light</item>
         <item>wallpaper_monumentvalley</item>
         <item>wallpaper_nexuspattern</item>
         <item>wallpaper_nexusrain</item>
-        <item>wallpaper_nexuswallpaper1</item>
         <item>wallpaper_pcut</item>
-        <item>wallpaper_ropelights</item>
-        <item>wallpaper_tree</item>
-        <item>wallpaper_x67</item>
-        <item>wallpaper_black</item>
-        <item>wallpaper_blending</item>
-        <item>wallpaper_blue_red</item>
-        <item>wallpaper_bright</item>
-        <item>wallpaper_brown_flames</item>
-        <item>wallpaper_dark</item>
-        <item>wallpaper_default</item>
-        <item>wallpaper_flames</item>
-        <item>wallpaper_htc</item>
-        <item>wallpaper_light</item>
-        <item>wallpaper_light_dark</item>
         <item>wallpaper_rainbokeh</item>
         <item>wallpaper_retro</item>
+        <item>wallpaper_ropelights</item>
         <item>wallpaper_stream</item>
         <item>wallpaper_stripes</item>
         <item>wallpaper_tiedie</item>
-        <item>wallpaper_abstract</item>
-		<item>wallpaper_abstract2</item>
-		<item>wallpaper_colors</item>
-		<item>wallpaper_day_night</item>
-		<item>wallpaper_digital</item>
-		<item>wallpaper_grass</item>
-		<item>wallpaper_lion</item>
-		<item>wallpaper_planet</item>
-		<item>wallpaper_rainy</item>
-		<item>wallpaper_seasons</item>
-		<item>wallpaper_starcolors</item>
-		<item>wallpaper_plainbiffnightsky1</item>
-		<item>wallpaper_colorfulbiff</item>
-		<item>wallpaper_forzabmw</item>
-		<item>wallpaper_hellbmw</item>
-		<item>wallpaper_miscbmw</item>
-	</string-array>
+        <item>wallpaper_tree</item>
+        <item>wallpaper_waterdrops</item>
+        <item>wallpaper_x67</item>
+    </string-array>
 </resources>
+
