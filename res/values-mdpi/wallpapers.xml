@@ -17,58 +17,34 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <!--new biffmod wallpapers -->
-        <item>wallpaper_colorfulbiff</item> 
+        <item>wallpaper_BiffMod plain F</item>
+        <item>wallpaper_dreamcity</item>
+        <item>wallpaper_google_infinity</item>
+        <item>wallpaper_happinessis</item>
+        <item>wallpaper_heart_biff</item>
+        <item>wallpaper_infinity3d</item>
+        <item>wallpaper_jetplain1</item>
+        <item>wallpaper_jetplain2</item>
+        <item>wallpaper_jetplaindream</item>
+        <item>wallpaper_jet_plain_yellowjacket</item>
+        <item>wallpaper_plaineye</item>
+        <item>wallpaper_plainfield</item>
+        <item>wallpaper_plainhappy</item>
+        <item>wallpaper_caged_infinity</item>
+        <item>wallpaper_colorfulbiff</item>
         <item>wallpaper_forzabmw</item>
         <item>wallpaper_hellbmw</item>
+        <item>wallpaper_infinity1</item>
         <item>wallpaper_miscbmw</item>
+        <item>wallpaper_moonplain</item>
+        <item>wallpaper_plainbiff_island</item>
         <item>wallpaper_plainbiffnightsky1</item>
-        <!--other wallpapers-->
-        <item>vanguard_staticwp_iceberg</item>
-        <item>vanguard_staticwp_octopus</item>
-        <item>vanguard_staticwp_soundwaves</item>
-        <item>vanguard_staticwp_starfish</item>
-        <item>vanguard_staticwp_technomusic</item>
-        <item>vanguard_staticwp_xrayfish</item>
-        <item>wallpaper_black</item>
-        <item>wallpaper_blending</item>
-        <item>wallpaper_bluedotgrid</item>
-        <item>wallpaper_blue_red</item>
-        <item>wallpaper_bright</item>
-        <item>wallpaper_brown_flames</item>
-        <item>wallpaper_brown</item>
-        <item>wallpaper_canyon</item>
-        <item>wallpaper_cloud</item>
-        <item>wallpaper_dark</item>
-        <item>wallpaper_default</item>
-        <item>wallpaper_desert</item>
-        <item>wallpaper_electric</item>
-        <item>wallpaper_field</item>
-        <item>wallpaper_flames</item>
-        <item>wallpaper_galaxy</item>
-        <item>wallpaper_goldengate</item>
-        <item>wallpaper_grass</item>
-        <item>wallpaper_grass_night</item>
-        <item>wallpaper_gray</item>
-        <item>wallpaper_greengray</item>
-        <item>wallpaper_hazybluedots</item>
-        <item>wallpaper_htc</item>
-        <item>wallpaper_light_dark</item>
-        <item>wallpaper_lightgrad</item>
-        <item>wallpaper_light</item>
-        <item>wallpaper_monumentvalley</item>
-        <item>wallpaper_nexuspattern</item>
-        <item>wallpaper_nexusrain</item>
-        <item>wallpaper_pcut</item>
-        <item>wallpaper_rainbokeh</item>
-        <item>wallpaper_retro</item>
-        <item>wallpaper_ropelights</item>
-        <item>wallpaper_stream</item>
-        <item>wallpaper_stripes</item>
-        <item>wallpaper_tiedie</item>
-        <item>wallpaper_tree</item>
-        <item>wallpaper_waterdrops</item>
-        <item>wallpaper_x67</item>
+        <item>wallpaper_aurabiff</item>
+        <item>wallpaper_biffed_infinity</item>
+        <item>wallpaper_biffeye</item>
+        <item>wallpaper_biffmod_plain_2</item>
+        <item>wallpaper_biffmod_plain_e</item>
+        <item>wallpaper_biffmod_plain</item>
+        <item>wallpaper_downtownbiff</item>
     </string-array>
 </resources>
-
